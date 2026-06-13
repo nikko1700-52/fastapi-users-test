@@ -1,0 +1,1 @@
+axum::middleware::FromFn<{closure@src/main.rs:33:13: 33:67}, Arc<tokio::sync::Mutex<RateLimiter>>, Route, _>: tower_service::Service<axum::http::Request<Body>>
